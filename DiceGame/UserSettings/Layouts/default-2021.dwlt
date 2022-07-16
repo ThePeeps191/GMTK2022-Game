@@ -48,7 +48,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< HEAD
+  controlID: 46
+=======
   controlID: 42
+>>>>>>> 40cf555f86a01b8dd7e281ff06d9ddb8033330e4
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +227,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< HEAD
+  controlID: 47
+=======
   controlID: 43
+>>>>>>> 40cf555f86a01b8dd7e281ff06d9ddb8033330e4
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +256,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< HEAD
+  controlID: 48
+=======
   controlID: 44
+>>>>>>> 40cf555f86a01b8dd7e281ff06d9ddb8033330e4
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -358,10 +370,17 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: f6510000
+    m_LastClickedID: 20982
+    m_ExpandedIDs: 0000000000ca9a3b
+=======
     scrollPos: {x: 0, y: 139.49966}
     m_SelectedIDs: 04540000
     m_LastClickedID: 21508
     m_ExpandedIDs: 00000000f653000000ca9a3bffffff7f
+>>>>>>> 40cf555f86a01b8dd7e281ff06d9ddb8033330e4
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -519,7 +538,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
+      m_ExpandedIDs: 42fbffff
+=======
       m_ExpandedIDs: c2f7fffff6f7ffff2af8ffffc0f9ffff
+>>>>>>> 40cf555f86a01b8dd7e281ff06d9ddb8033330e4
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -792,7 +815,11 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -1.1603792, y: 5.2265196, z: -0.3028223}
     speed: 2
+<<<<<<< HEAD
+    m_Value: {x: 4.944821, y: 2.1039026, z: -0.08761208}
+=======
     m_Value: {x: -1.1603792, y: 5.2265196, z: -0.3028223}
+>>>>>>> 40cf555f86a01b8dd7e281ff06d9ddb8033330e4
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -845,7 +872,11 @@ MonoBehaviour:
   m_Size:
     m_Target: 24.396774
     speed: 2
+<<<<<<< HEAD
+    m_Value: 23.632946
+=======
     m_Value: 24.396774
+>>>>>>> 40cf555f86a01b8dd7e281ff06d9ddb8033330e4
   m_Ortho:
     m_Target: 1
     speed: 2
